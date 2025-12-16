@@ -55,7 +55,7 @@ function GrooveWriter() {
 	root.myGrooveUtils.grooveDBAuthoring = parseInt(root.myGrooveUtils.getQueryVariableFromURL("GDB_Author", "0"), 10);
 
 	// private vars in the scope of the class
-	var class_app_title = "Groove Scribe";
+	var class_app_title = "Groove Scribe X";
 	var class_permutation_type = "none";
 	var class_advancedEditIsOn = false;
 	var class_measure_for_note_label_click = 0;
